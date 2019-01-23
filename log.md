@@ -1,29 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 21, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Found new parameters and return values for API function calls being made from before. Updated those calls to allow the basic functionality of the addon to work again.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** While fixing this, I came up with several "enhancements" to the addon such as a menu with a available list of realms with check boxes to allow the user to mark which realms to auto decline.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: January 22, 2019
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Updated the addon to not trigger when in a LFG group. Started adding the functionality to not run the addon logic if you are not party/raid leader. Found new functions to use to gather needed data to determine instance character is currently in. Use that data to determine the logic mentioned earlier
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Learned about some new WoW API functions to gain data that I don't really need, but it was cool to see some of the return values.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
